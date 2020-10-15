@@ -1,2 +1,2 @@
 # runelite-external-plugins
-external plugins
+external plugin collection
